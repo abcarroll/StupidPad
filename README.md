@@ -13,9 +13,9 @@ At StupidPad++, we realize programmers get bored.  That's why in our latest rele
 ## Screenshots
 ![Warning: Not responsible for brain injuries resulting from viewing StupidPad++](http://i.imgur.com/1x3nHbk.png)
 
-## Who made this wonderful application?
+## Who made this wonderful application?  How long did it take you?
 
-StupidPad++ is the brain child of A. B. Carroll, one of the most prolific programmers of the 21st Century.  After the release of StupidPad, many are calling A. B. the "Ellen Musk-Bill Gates-Steve Jobs" of the IDE / Text Editor Insdustry.
+StupidPad++ is the result of over 15 **minutes!** of full-time development and $1.2m of research and development.  StupidPad++ is the brain child of A. B. Carroll, one of the most prolific programmers of the 21st Century.  After the release of StupidPad, many are calling A. B. the "Ellen Musk-Bill Gates-Steve Jobs" of the IDE / Text Editor Insdustry.
 
 ## Is it really free?
-**Yes!** While you might expect to pay $10,000 or $20,000 for a single-CPU license for such an advanced application, StupidPad++ is actually free and licened under the MIT License.  While we don't feel such a mind-blowing text editor could be improved further, if you can somehow think of anything, it's even open source!
+**Yes!** While you might expect to pay $10,000 or $20,000 for a single-CPU license for such an advanced application, StupidPad++ is actually free and licensed under the MIT License.  While we don't feel such a mind-blowing text editor could be improved further, if you can somehow think of anything, it's even open source!
